@@ -4,7 +4,7 @@ A highly customizable, performance-friendly nametag script for RedM, designed fo
 
 <img width="517" alt="image" src="https://github.com/user-attachments/assets/22c20d52-b278-4d01-bff4-add3c2446411" />
 
-https://streamable.com/4reef7
+Video preview: https://streamable.com/4reef7
 
 All of my scripts are free use, you can use it for anything! WITH the exception of no selling, paywalls, or any other form of monetization, and encryption.
 
