@@ -2,12 +2,9 @@
 
 A highly customizable, performance-friendly nametag script for RedM, designed for both immersion and clarity.
 
-
-<div style="position:relative; width:100%; height:0px; padding-bottom:62.500%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/4reef7?" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
-
-
 <img width="517" alt="image" src="https://github.com/user-attachments/assets/22c20d52-b278-4d01-bff4-add3c2446411" />
 
+https://streamable.com/4reef7
 
 All of my scripts are free use, you can use it for anything! WITH the exception of no selling, paywalls, or any other form of monetization, and encryption.
 
